@@ -1,0 +1,7 @@
+{
+  "name": "gitlab-show-mr-overview",
+  "version": "0.0.1",
+  "description": "Minimalistic extension to always show MR overview in Gitlab",
+  "license": "MIT",
+  "private": true
+}
