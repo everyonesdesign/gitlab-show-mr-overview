@@ -1,0 +1,3 @@
+.navbar-gitlab + .layout-page .merge-request .notes.tab-pane {
+  display: block !important;
+}
