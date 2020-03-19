@@ -1,7 +1,7 @@
 {
   "name": "gitlab-show-mr-overview",
   "version": "0.0.1",
-  "description": "Minimalistic extension to always show MR overview in Gitlab",
+  "description": "This minimalistic extension makes Gitlab always show merge request overview",
   "license": "MIT",
   "private": true,
   "scripts": {
