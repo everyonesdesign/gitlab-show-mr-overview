@@ -3,5 +3,8 @@
   "version": "0.0.1",
   "description": "Minimalistic extension to always show MR overview in Gitlab",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "scripts": {
+    "pack": "rm app.zip; cd app && zip -r ../app.zip *"
+  }
 }
