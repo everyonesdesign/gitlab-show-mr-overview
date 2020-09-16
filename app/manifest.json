@@ -19,6 +19,9 @@
       "matches": [
         "<all_urls>"
       ],
+      "js": [
+        "scripts/index.js"
+      ],
       "css": [
         "styles/index.css"
       ]
