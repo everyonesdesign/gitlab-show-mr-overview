@@ -1,6 +1,6 @@
 {
   "name": "Show MR overview in Gitlab",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "manifest_version": 2,
   "description": "This minimalistic extension makes Gitlab always show merge request overview",
   "icons": {
